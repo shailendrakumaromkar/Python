@@ -1,0 +1,9 @@
+x=3+7j
+y=45j
+z=-8478j
+w=7
+u=complex(w)
+print(x)
+print(y)
+print(z)
+print(u)
