@@ -15,5 +15,4 @@
 
 
 ## :bulb: Note: 
-In case only JSON file is required
-In /scripts/deploy.js, comment all console.log
+In case only JSON file is required, then in /scripts/deploy.js, comment all console.log lines
