@@ -1,5 +1,5 @@
 ##  :man_technologist: Technology Used:
-- Smart Contract : Solidity 0.7.3
+- Smart Contract : Solidity V0.7.3
 - Ethereum development environment : Hardhat
 - Blockchain API and Node Service : Alchemy
 - Library : ether.JS
